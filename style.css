@@ -1,0 +1,35 @@
+body
+{
+	background-color:#000000;
+	color:#ffffff;
+	text-align:center;
+	overflow-x:hidden;
+}
+
+div
+{
+	text-align:left;
+	vertical-align:top;
+	display:inline-block;
+}
+
+.dark-color
+{
+	color:#111111;
+}
+
+.michael-color
+{
+	color:#68D4FF;
+}
+
+.review
+{
+	width:400px;
+}
+
+.line
+{
+	width:550px;
+	border-color:#68D4FF;
+}
